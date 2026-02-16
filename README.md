@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 I'm Md Rakib Islam</h1>
-<h3 align="center">🚀 Full Stack & Mobile Application Developer</h3>
+<h1 align="center">Hi, I'm Md Rakib Islam</h1>
+<h3 align="center"> Full Stack & Mobile Application Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+Developer;ASP.NET+Core+Developer;Angular+Frontend+Developer;Flutter+Mobile+App+Developer;Building+Scalable+Systems" />
