@@ -1,45 +1,61 @@
-# Hi 👋 I'm Md Rakib Islam
+<h1 align="center">Hi 👋 I'm Md Rakib Islam</h1>
+<h3 align="center">🚀 Full Stack & Mobile Application Developer</h3>
 
-### 💻 Full Stack & Mobile Application Developer  
-🚀 Java | Spring Boot | .NET | Angular | Flutter  
-📍 Dhaka, Bangladesh  
-🎯 Open to Internship & Junior Developer Opportunities  
-
----
-
-## 👨‍💻 About Me
-
-I am a Full Stack Developer experienced in building scalable backend systems, dynamic frontend applications, and cross-platform mobile apps.
-
-I specialize in Java Spring Boot and ASP.NET Core for backend development, Angular for frontend, and Flutter for mobile applications.
-
-I focus on clean architecture, secure authentication systems, and real-world application development.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+Developer;ASP.NET+Core+Developer;Angular+Frontend+Developer;Flutter+Mobile+App+Developer;Building+Scalable+Systems" />
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🌟 About Me
 
-### 🔹 Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+💻 Passionate Full Stack Developer  
+🔐 Backend-Focused Engineer  
+📱 Cross-Platform Mobile App Builder  
+📍 Based in Dhaka, Bangladesh  
 
-### 🔹 Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+I build scalable backend systems using **Spring Boot** and **ASP.NET Core**,  
+dynamic frontend apps using **Angular**,  
+and cross-platform mobile apps using **Flutter**.
 
-### 🔹 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### 🔹 Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+I believe in clean architecture, secure authentication, and real-world problem solving.
 
 ---
 
-## 📂 Project Experience
+## 🛠 Tech Arsenal
+
+### ⚙ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,dotnet" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,bootstrap,html,css" />
+</p>
+
+### 📱 Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
+
+### 🗄 Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamrakibislam&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamrakibislam&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🚀 What I Build
 
 ✔ Full Stack Web Applications  
 ✔ Authentication & Authorization Systems  
@@ -50,20 +66,32 @@ I focus on clean architecture, secure authentication systems, and real-world app
 
 ---
 
-## 📈 Currently Learning
+## 📈 Currently Leveling Up
 
 - Advanced Spring Security  
 - ASP.NET Core Advanced Concepts  
 - Microservices Architecture  
-- Clean Architecture Principles  
+- Clean Architecture & Best Practices  
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-📧 Email: yourmail@gmail.com  
-🔗 LinkedIn: (Add your LinkedIn link here)
+<p align="center">
+  <a href="mailto:mdrakibislam12412@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/md-rakib-islam-20307727a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-⭐ Consistent Learner | Backend-Focused | Building Scalable Systems
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamrakibislam&color=blueviolet&style=for-the-badge" />
+</p>
+
+---
+
+<h3 align="center">⭐ Building Scalable Systems Across Web & Mobile</h3>
